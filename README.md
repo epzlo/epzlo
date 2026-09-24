@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Conectando software, automação e infraestrutura de sistemas para transformar problemas complexos em soluções funcionais.
+  Conectando software, automação e infraestrutura de sistemas para transformar problemas em soluções funcionais.
 </p>
 
 ---
