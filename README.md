@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Perfil multidisciplinar focado em desenvolvimento de software full stack, engenharia de contexto e agentes de inteligência artificial, além de administração de sistemas Linux e infraestrutura de servidores.
+  Conectando software, automação e infraestrutura de sistemas para transformar problemas complexos em soluções funcionais.
 </p>
 
 ---
