@@ -5,7 +5,7 @@
 <h1 align="center">André (Lopez)</h1>
 
 <p align="center">
-  <b>Software Development • AI Workflows & Automation • Systems & Infrastructure</b><br>
+  <b>Desenvolvimento de Software • Automação com IA • Sistemas & Infraestrutura</b><br>
   <sub>Conectando software, automação e infraestrutura de sistemas para transformar problemas em soluções funcionais.</sub>
 </p>
 
