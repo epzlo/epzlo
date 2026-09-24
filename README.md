@@ -54,13 +54,6 @@
 
 ---
 
-### 🚀 Projetos em Destaque
-
-* 🔗 **[Nome do Repositório 1](https://github.com/epzlo/...)** — Descrição objetiva da aplicação desenvolvida, principais desafios resolvidos e tecnologias aplicadas.
-* 🔗 **[Nome do Repositório 2](https://github.com/epzlo/...)** — Automação ou script com foco em infraestrutura, análise de dados ou integração de IA.
-
----
-
 ### 📫 Contato Profissional
 
 [![Email](https://img.shields.io/badge/Email-lopesidd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopesidd@gmail.com)
