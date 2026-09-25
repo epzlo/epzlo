@@ -54,6 +54,6 @@
 
 ---
 
-### 📫 Contato Profissional
+### 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-lopesidd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopesidd@gmail.com)
